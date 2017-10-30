@@ -1,0 +1,29 @@
+{
+  "name": "csv-to-matrix",
+  "version": "1.0.0",
+  "description": "A CVS to arrays in array (Matrix) parser.",
+  "main": "lib/index.js",
+  "dependencies": {
+    "fast-csv": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-stage-2": "^6.24.1"
+  },
+  "scripts": {
+    "compile": "babel --presets es2015,stage-2 -d lib/ src/",
+    "prepublish": "npm run compile"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwieruch/csv-to-matrix.git"
+  },
+  "keywords": [],
+  "author": "“Robin <“wrobin@gmx.net”> (https://www.robinwieruch.de)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rwieruch/csv-to-matrix/issues"
+  },
+  "homepage": "https://github.com/rwieruch/csv-to-matrix#readme"
+}
