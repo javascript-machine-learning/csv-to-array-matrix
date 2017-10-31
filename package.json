@@ -1,7 +1,7 @@
 {
-  "name": "csv-to-matrix",
-  "version": "1.0.0",
-  "description": "A CVS to arrays in array (Matrix) parser.",
+  "name": "csv-to-array-matrix",
+  "version": "0.1.1",
+  "description": "A simple CVS to arrays in array (Matrix) parser.",
   "main": "lib/index.js",
   "dependencies": {
     "fast-csv": "^2.4.1"
@@ -17,13 +17,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rwieruch/csv-to-matrix.git"
+    "url": "git+https://github.com/rwieruch/csv-to-array-matrix.git"
   },
   "keywords": [],
   "author": "“Robin <“wrobin@gmx.net”> (https://www.robinwieruch.de)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rwieruch/csv-to-matrix/issues"
+    "url": "https://github.com/rwieruch/csv-to-array-matrix/issues"
   },
-  "homepage": "https://github.com/rwieruch/csv-to-matrix#readme"
+  "homepage": "https://github.com/rwieruch/csv-to-array-matrix#readme"
 }
