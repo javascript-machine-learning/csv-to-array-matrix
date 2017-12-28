@@ -1,5 +1,7 @@
 # CSV to Matrix
 
+[![Build Status](https://travis-ci.org/javascript-machine-learning/csv-to-array-matrix.svg?branch=master)](https://travis-ci.org/javascript-machine-learning/csv-to-array-matrix)
+
 A simple CVS to Matrix parser - reads a CSV file, outputs an arrays in array (Matrix).
 
 ## Installation
